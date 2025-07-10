@@ -1,5 +1,11 @@
+<h1 align="center">𝑺𝑯𝑨𝑫𝑶𝑾'𝑪𝑶𝑹𝑬</h1>
+
 <p align="center">
-  <img src="https://files.catbox.moe/y8x8lw.gif" width="420px" alt="Cyberpunk Anime Hacker">
+  <i>✦ 𝒉𝒐𝒍𝒂 𝒃𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐/𝒂 𝒂 𝒎𝒊 𝒑𝒆𝒓𝒇𝒊𝒍 ✦</i>
+</p>
+
+<p align="center">
+  <img src="https://files.catbox.moe/y8x8lw.gif" width="420px" alt="Cyberpunk Hacker Anime">
 </p>
 
 <p align="center">
@@ -8,41 +14,67 @@
 
 ---
 
-### 📱 Contáctame
+## 🧠 Sobre mí
+
+> ʜᴏʟᴀ, sᴏʏ **Shadow'Core**, ᴜɴ ᴅᴇsᴀʀʀᴏʟʟᴀᴅᴏʀ ᴀᴘᴀᴄɪᴏɴᴀᴅᴏ ᴀ ʟᴀ ᴘʀᴏɢʀᴀᴍᴀᴄɪᴏɴ
+> ᴄʀᴇᴏ ʙᴏᴛs, ᴅᴇ ᴡʜᴀsᴛsᴀᴘᴘ ᴘᴇʀsᴏɴᴀʟɪᴢᴀᴅᴏs
+
+- 🧪 Especialista en bots para WhatsApp
+- 🎮 Fan de los animes
+
+---
+
+## ⚙️ Tecnologías favoritas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb,linux,html,github" />
+</p>
+
+---
+
+## 🎯 Proyectos Destacados
+
+| Proyecto | Descripción | Estado |
+|---------|-------------|--------|
+| [Sukuna Bot MD](https://github.com/Yuji-XDev/Rin-Itoshi-Bot-V2) | Bot WhatsApp multi-función con estilo anime, comandos únicos y potencia oscura. | 🔥 Activo |
+
+---
+
+## 📊 Mis Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuji-XDev&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuji-XDev&layout=compact&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuji-XDev&theme=react-dark" />
+</p>
+
+---
+
+## 💬 Contáctame
 
 <p align="center">
   <a href="https://wa.me/51969214380">
-    <img src="https://img.shields.io/badge/💬%20WhatsApp-Black-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/💬%20WhatsApp-Shadow--Core-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuji-XDev&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuji-XDev&layout=compact&theme=radical" width="49%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuji-XDev&theme=react-dark" alt="GitHub Activity Graph">
-</p>
-
----
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MI+PROYECTO+%F0%9F%92%BB" alt="Typing SVG" />
-  </a>
-</p>
+## 🧩 Destacado
 
 <p align="center">
   <a href="https://github.com/Yuji-XDev/Rin-Itoshi-Bot-V2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuji-XDev&repo=Rin-Itoshi-Bot-V2&title_color=ff00cc&text_color=00ffee&icon_color=ffff00&bg_color=30,000000,800080,0000FF,00FFFF&theme=default" alt="GitHub Repo Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuji-XDev&repo=Rin-Itoshi-Bot-V2&title_color=ff00cc&text_color=00ffee&icon_color=ffff00&bg_color=30,000000,800080,0000FF,00FFFF&theme=default" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=0EF7FF&center=true&vCenter=true&width=600&lines=⚔️+Anime+es+vida,+código+es+batalla;🤖+Bots+de+WhatsApp+con+alma+otaku;🌌+Shadow'Core+está+activo+en+la+matrix" />
 </p>
 
 <p align="center">
