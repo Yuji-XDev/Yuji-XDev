@@ -74,7 +74,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=0EF7FF&center=true&vCenter=true&width=600&lines=⚔️+Soy+Fan+del+anime,+Mi+🤖+Proyecto+;🌌+Shadow'Core+☄️" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=0EF7FF&center=true&vCenter=true&width=600&lines=⚔️+Soy+Fan+del+anime;🎄+Mi+Proyecto+🌪️;🌌+Shadow'Core+☄️" />
 </p>
 
 <p align="center">
