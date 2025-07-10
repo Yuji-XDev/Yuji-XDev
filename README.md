@@ -20,7 +20,7 @@
 > ᴄʀᴇᴏ ʙᴏᴛs, ᴅᴇ ᴡʜᴀsᴛsᴀᴘᴘ ᴘᴇʀsᴏɴᴀʟɪᴢᴀᴅᴏs
 
 - 🧪 Especialista en bots para WhatsApp
-- 🎮 Fan de los animes
+- 🎮 Me gusta ver anime
 
 ---
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 🧩 Destacado
+## ⛩️ MI PROYECTO 👻
 
 <p align="center">
   <a href="https://github.com/Yuji-XDev/Rin-Itoshi-Bot-V2">
@@ -74,7 +74,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=0EF7FF&center=true&vCenter=true&width=600&lines=⚔️+Anime+es+vida,+código+es+batalla;🤖+Bots+de+WhatsApp+con+alma+otaku;🌌+Shadow'Core+está+activo+en+la+matrix" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=0EF7FF&center=true&vCenter=true&width=600&lines=⚔️+Soy+Fan+del+anime,+Mi+🤖+Proyecto+;🌌+Shadow'Core+☄️" />
 </p>
 
 <p align="center">
