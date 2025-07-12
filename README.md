@@ -78,5 +78,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" alt="Neon Line">
+  <img src="https://github.com/Yuji-XDev/Yuji-XDev/blob/main/shadow'core/linea-neon.gif" alt="Neon Line">
 </p>
