@@ -36,7 +36,7 @@
 
 | Proyecto | Descripción | Estado |
 |---------|-------------|--------|
-| [Sukuna Bot MD](https://github.com/Yuji-XDev/Rin-Itoshi-Bot-V2) | Bot WhatsApp multi-función con estilo anime, comandos únicos y potencia oscura. | 🔥 Activo |
+| [Sukuna Bot MD](https://github.com/Yuji-XDev/Sukuna-Bot-MD) | Bot WhatsApp multi-función con, comandos únicos y potencia oscura. | 🔥 Activo |
 
 ---
 
@@ -66,8 +66,8 @@
 ## ⛩️ MI PROYECTO 👻
 
 <p align="center">
-  <a href="https://github.com/Yuji-XDev/Rin-Itoshi-Bot-V2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuji-XDev&repo=Rin-Itoshi-Bot-V2&title_color=ff00cc&text_color=00ffee&icon_color=ffff00&bg_color=30,000000,800080,0000FF,00FFFF&theme=default" />
+  <a href="https://github.com/Yuji-XDev/Sukuna-Bot-MD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuji-XDev&repo=Sukuna-Bot-MD&title_color=ff00cc&text_color=00ffee&icon_color=ffff00&bg_color=30,000000,800080,0000FF,00FFFF&theme=default" />
   </a>
 </p>
 
