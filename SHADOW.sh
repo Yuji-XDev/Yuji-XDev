@@ -54,7 +54,7 @@ if [ $? -ne 0 ]; then
 fi
 echo -e "${GREEN}Archivos agregados.${RESET}"
 
-read -p "Mensaje del commit: " commit_message
+read -p "☘️ Mensaje del commit: " commit_message
 git commit -m "$commit_message" &>/dev/null
 if [ $? -ne 0 ]; then
   echo -e "${RED}Error al realizar el commit.${RESET}"
@@ -86,4 +86,4 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
-echo -e "${CYAN}Archivos subidos exitosamente.${RESET}"
+echo -e "🌷 ${CYAN}Archivos subidos exitosamente.${RESET}"
