@@ -32,7 +32,7 @@
 
 | Proyecto | Descripción | Estado |
 |---------|-------------|--------|
-| [Sukuna Ultra MD](https://github.com/Yuji-XDev/SukunaUltra-MD) | Bot WhatsApp multi-función con, comandos únicos y potencia oscura. | 🔥 Activo |
+| [Sukuna Ultra MD](https://github.com/Yuji-XDev/Rin-Itoshi-Bot) | Bot WhatsApp multi-función con, comandos únicos y potencia oscura. | 🔥 Activo |
 
 ---
 
@@ -62,8 +62,8 @@
 ## ⛩️ MI PROYECTO 👻
 
 <p align="center">
-  <a href="https://github.com/Yuji-XDev/SukunaUltra-MD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuji-XDev&repo=SukunaUltra-MD&title_color=ff00cc&text_color=00ffee&icon_color=ffff00&bg_color=30,000000,800080,0000FF,00FFFF&theme=default" />
+  <a href="https://github.com/Yuji-XDev/Rin-Itoshi-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuji-XDev&repo=Rin-Itoshi-Bot&title_color=ff00cc&text_color=00ffee&icon_color=ffff00&bg_color=30,000000,800080,0000FF,00FFFF&theme=default" />
   </a>
 </p>
 
