@@ -71,7 +71,7 @@ banner() {
     echo "║  ╚██████╔╝██║   ██║   ██║  ██║██║       ║"
     echo "║   ╚══▀▀═╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝       ║"
     echo "║                                        ║"
-    echo "║        ${CYAN}>> SHADOW AUTO-GIT <<${MAGENTA}        ║"
+    echo "║            POWERED BY SHADOW.XYZ                  ║"
     echo "╚════════════════════════════════════════╝"
     echo -e "${RESET}"
 }
