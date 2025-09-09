@@ -1,6 +1,6 @@
 
 
-## 📊 Mis Stats
+## 📊 Estadisticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuji-XDev&show_icons=true&theme=tokyonight" width="49%" />
